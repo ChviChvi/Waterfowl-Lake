@@ -1,6 +1,8 @@
 # Waterfowl-Lake
 
-This in an ongoing **Unity** / C# hobby project. The goal is to have a playable game. The game is heading towards a procedual generated world.
+This in an ongoing **Unity** / C# hobby project. 
+
+The game is heading towards a procedual generated world. The game will mainly revolve around the smelling sense of the dog, through this it will find different objectives and come across obstacles.
 
 
 ![Sprite-Slime-imageonline co-6649715-imageonline co-3314361](https://github.com/ChviChvi/Waterfowl-Lake/assets/91070897/537fb97c-a384-4736-838c-bf21dd8023f7)
