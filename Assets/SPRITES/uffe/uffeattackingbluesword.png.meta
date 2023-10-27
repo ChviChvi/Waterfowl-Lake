@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: ba0a21c4543be744ca9f30ed6af336b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uffeattackingbluesword_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 18
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203970ee7250e254b816f203d135d36b
+      internalID: -649570057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 18
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041e6c4e74c245345afc8fb53a2c5b59
+      internalID: -272053563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 18
+        width: 33
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d62ce187db22e479d0f8ffafb5dcf7
+      internalID: 826442581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 18
+        width: 33
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f392a483349546be911cbb94808b1
+      internalID: 1612683263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 18
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.63843346, y: -0.0042071873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eb61c094dc57f4a901ac8104b1fbb5
+      internalID: 238387581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 18
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6774788, y: -0.0039170366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f9a788d2ba776459eda6082a1ea44a
+      internalID: 233674986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 18
+        width: 56
+        height: 41
+      alignment: 9
+      pivot: {x: 0.78350174, y: 0.0043235873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d480eaa19459704eae4e8e87fce20c4
+      internalID: 1805869053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 18
+        width: 52
+        height: 40
+      alignment: 9
+      pivot: {x: 0.77531314, y: -0.000000047683717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f076a5124360a70479dde62d59f8db26
+      internalID: 1154111481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 18
+        width: 52
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7552901, y: 0.013014746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f26f90345bf46747b804c5486ab0499
+      internalID: 1753848213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 17
+        width: 52
+        height: 39
+      alignment: 9
+      pivot: {x: 0.76530224, y: 0.006674155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8655d3e55095c245921a1c99deb7e36
+      internalID: -924840397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_12
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 19
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c13596a2e94e34abe00e6f95d1bb93
+      internalID: 1587740185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_13
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 18
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20612048b7a01c642af9363bd154020c
+      internalID: -890890722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uffeattackingbluesword_14
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 18
+        width: 28
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0d7c2240f9abe4b99cc1cc0fd62ca3
+      internalID: 1151594251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      uffeattackingbluesword_5: 233674986
+      uffeattackingbluesword_7: 550367910
+      uffeattackingbluesword_15: -2105496788
+      uffeattackingbluesword_1: -272053563
+      uffeattackingbluesword_16: -532387407
+      uffeattackingbluesword_2: 826442581
+      uffeattackingbluesword_0: -649570057
+      uffeattackingbluesword_3: 1612683263
+      uffeattackingbluesword_13: -890890722
+      uffeattackingbluesword_6: 1805869053
+      uffeattackingbluesword_4: 238387581
+      uffeattackingbluesword_12: 1587740185
+      uffeattackingbluesword_10: -672113721
+      uffeattackingbluesword_14: 1151594251
+      uffeattackingbluesword_8: 1154111481
+      uffeattackingbluesword_9: 1753848213
+      uffeattackingbluesword_11: -924840397
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

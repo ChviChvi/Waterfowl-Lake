@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: 6c27a97eff2d6904b9d841df82a67b47
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grasstexuture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c215f37be1342f445b86a88488ac2d44
+      internalID: 294563787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a1b3e6029d0d42a8c60b635d82474
+      internalID: -521012839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98d62349742b14b9ecf444309a20bb
+      internalID: 1555435104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d685b2444014d2546919111a0c9f5724
+      internalID: -785108749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd62c922a6c6cc247b78d51e267af17b
+      internalID: -1016404408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273bc8b5a50207b4294eb017d03fde5a
+      internalID: -1502846505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246d6dcf198f83946b2c58892e7f5f57
+      internalID: -44033977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5d1e45346f339408236542881b1656
+      internalID: 1007718080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc5ae9ec6d112842814701afa014cfd
+      internalID: 2105698017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee408452ca740e45bf1b31b72538e80
+      internalID: -557106762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224aef7721c1ed14b82ef03e2718ebb7
+      internalID: 1555163093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasstexuture_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f49c3dd974d71f4db2fafc2fa3108f0
+      internalID: 2049056292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 6c27a97eff2d6904b9d841df82a67b47, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      grasstexuture_24: -499117053
+      grasstexuture_62: -705304481
+      grasstexuture_65: 187915076
+      grasstexuture_114: 113732620
+      grasstexuture_70: 316565148
+      grasstexuture_124: -1874302514
+      grasstexuture_175: -1201083461
+      grasstexuture_15: -1410204103
+      grasstexuture_81: 1548550063
+      grasstexuture_101: 1065952061
+      grasstexuture_14: -7390918
+      grasstexuture_122: 73447751
+      grasstexuture_134: -1229540631
+      grasstexuture_31: -388977287
+      grasstexuture_136: -1067240586
+      grasstexuture_182: 1753130171
+      grasstexuture_29: 1555163093
+      grasstexuture_93: 320799099
+      grasstexuture_163: 1557849422
+      grasstexuture_149: -1268974741
+      grasstexuture_170: -1625359039
+      grasstexuture_5: 400477280
+      grasstexuture_90: -1233244731
+      grasstexuture_48: -349148737
+      grasstexuture_176: -858894737
+      grasstexuture_108: 1473047468
+      grasstexuture_0: 294563787
+      grasstexuture_60: -629141505
+      grasstexuture_137: -1025755241
+      grasstexuture_127: -1530847234
+      grasstexuture_160: 2074645927
+      grasstexuture_162: -1161858012
+      grasstexuture_91: -276262921
+      grasstexuture_51: -325232942
+      grasstexuture_30: 2049056292
+      grasstexuture_129: 972233422
+      grasstexuture_78: -1134700074
+      grasstexuture_135: 686326221
+      grasstexuture_158: -266754090
+      grasstexuture_87: 1925052789
+      grasstexuture_69: -2090056372
+      grasstexuture_145: 230406223
+      grasstexuture_116: -298024265
+      grasstexuture_96: 1191260159
+      grasstexuture_52: 1478635602
+      grasstexuture_66: -1674434761
+      grasstexuture_110: -953360749
+      grasstexuture_179: -1920103353
+      grasstexuture_33: -356726241
+      grasstexuture_115: 790595266
+      grasstexuture_118: -1470912030
+      grasstexuture_7: -642324561
+      grasstexuture_2: 1555435104
+      grasstexuture_1: -521012839
+      grasstexuture_47: 518705184
+      grasstexuture_86: 593555147
+      grasstexuture_4: 811124149
+      grasstexuture_171: 423590092
+      grasstexuture_17: -1502846505
+      grasstexuture_131: -1683764679
+      grasstexuture_161: 756590739
+      grasstexuture_10: 718532083
+      grasstexuture_125: 2058726640
+      grasstexuture_126: -764112900
+      grasstexuture_113: 81780102
+      grasstexuture_144: -561200773
+      grasstexuture_59: 1668373912
+      grasstexuture_38: -993761985
+      grasstexuture_54: 1637348752
+      grasstexuture_68: 891775196
+      grasstexuture_76: 49236430
+      grasstexuture_139: -465932585
+      grasstexuture_9: 256017650
+      grasstexuture_83: 734398119
+      grasstexuture_80: 704613006
+      grasstexuture_21: 135863309
+      grasstexuture_102: -1194799829
+      grasstexuture_25: -1626075193
+      grasstexuture_157: -1286563000
+      grasstexuture_172: 1698133571
+      grasstexuture_112: -1923978037
+      grasstexuture_12: -115288620
+      grasstexuture_61: -840553110
+      grasstexuture_106: 929435825
+      grasstexuture_26: 776366326
+      grasstexuture_43: -77680942
+      grasstexuture_79: 880607292
+      grasstexuture_142: -602628686
+      grasstexuture_6: -643333809
+      grasstexuture_39: 904316222
+      grasstexuture_181: 422164241
+      grasstexuture_177: -2121419894
+      grasstexuture_77: -1095974852
+      grasstexuture_164: 1404385775
+      grasstexuture_150: -962846256
+      grasstexuture_103: -943740689
+      grasstexuture_152: -641995876
+      grasstexuture_19: 1007718080
+      grasstexuture_71: 525649317
+      grasstexuture_151: 1523300407
+      grasstexuture_178: 271917816
+      grasstexuture_18: -44033977
+      grasstexuture_140: -115911604
+      grasstexuture_143: 1545934434
+      grasstexuture_73: 114534991
+      grasstexuture_99: 1367677474
+      grasstexuture_120: -1168681864
+      grasstexuture_107: -251779055
+      grasstexuture_97: 579468294
+      grasstexuture_166: -1027134703
+      grasstexuture_167: -332150136
+      grasstexuture_50: -1300887385
+      grasstexuture_141: 964037106
+      grasstexuture_123: 901201677
+      grasstexuture_153: 68983599
+      grasstexuture_98: 1800394047
+      grasstexuture_117: -1108705915
+      grasstexuture_42: 636372557
+      grasstexuture_11: 1234036173
+      grasstexuture_88: 724342651
+      grasstexuture_45: 1792145513
+      grasstexuture_46: 1705773712
+      grasstexuture_36: -1916153229
+      grasstexuture_128: -1754429141
+      grasstexuture_63: 883142900
+      grasstexuture_72: -1609272555
+      grasstexuture_119: 461718960
+      grasstexuture_23: 1024330795
+      grasstexuture_85: -1316100243
+      grasstexuture_130: -534866868
+      grasstexuture_146: 946805114
+      grasstexuture_55: -1284478801
+      grasstexuture_92: 973603291
+      grasstexuture_37: 1973352605
+      grasstexuture_121: -1887048615
+      grasstexuture_159: -1647500876
+      grasstexuture_64: 2074277055
+      grasstexuture_155: 557854077
+      grasstexuture_22: -1205802265
+      grasstexuture_104: -305117310
+      grasstexuture_40: -1404589994
+      grasstexuture_53: -339692269
+      grasstexuture_74: 1482274021
+      grasstexuture_165: 1782286615
+      grasstexuture_138: -564960218
+      grasstexuture_173: -798465701
+      grasstexuture_32: -100103233
+      grasstexuture_147: -374793150
+      grasstexuture_28: -557106762
+      grasstexuture_58: -1286056570
+      grasstexuture_49: -1105040156
+      grasstexuture_8: -1898963373
+      grasstexuture_67: -320763745
+      grasstexuture_20: -480249024
+      grasstexuture_35: 726237618
+      grasstexuture_44: 19488259
+      grasstexuture_89: 1671586742
+      grasstexuture_34: -1053841037
+      grasstexuture_168: 120002209
+      grasstexuture_84: -303431080
+      grasstexuture_95: -1855041818
+      grasstexuture_100: -977102419
+      grasstexuture_169: -1586351444
+      grasstexuture_109: 933418291
+      grasstexuture_57: 1632107909
+      grasstexuture_3: -785108749
+      grasstexuture_154: -616596599
+      grasstexuture_94: -2018729960
+      grasstexuture_13: 181882729
+      grasstexuture_180: -165669508
+      grasstexuture_56: -485821743
+      grasstexuture_148: -2031209028
+      grasstexuture_156: 2072897464
+      grasstexuture_82: -2065304124
+      grasstexuture_174: 1227278916
+      grasstexuture_111: 1258457823
+      grasstexuture_27: 2105698017
+      grasstexuture_133: -2097572128
+      grasstexuture_183: 928849215
+      grasstexuture_41: 176868462
+      grasstexuture_132: 1034216588
+      grasstexuture_75: -1928482520
+      grasstexuture_105: -1695217838
+      grasstexuture_16: -1016404408
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
